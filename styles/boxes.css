@@ -1,0 +1,13 @@
+.myboxestest1{
+    border-width: 5px;
+    border-style: solid;
+    margin: 20px;
+    border-color: rgb(252, 0, 126);
+}
+    
+.second-box {
+    border-style: solid;
+    padding: 10px;
+    background-color: lawngreen;
+
+}

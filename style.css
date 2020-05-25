@@ -1,0 +1,26 @@
+.title-box{
+    background-color: green;
+    border-style: ridge;
+    text-align: center;
+    padding: 20px 0px 10px 0px;
+}
+.main-box{
+    background-color: grey;
+    border-style: ridge;
+    border-width: 5px;
+    padding: 20px 1000px 30px 0px;
+    text-align: center;
+    
+}
+[type='submit']{
+    padding: 10px;
+}
+[type='file']{
+    padding: 20px;
+}
+#kastiite: hover {
+    background-color: white;
+}
+.hovertests:hover{
+    background-color: lightsalmon;
+}

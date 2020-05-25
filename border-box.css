@@ -1,0 +1,17 @@
+.main {
+    border: lawngreen;
+    border-style: solid;
+
+}
+.contet-box{
+    box-sizing: content-box;
+    color: lightblue;
+    border-style: solid;
+    
+}
+.border-box{
+    box-sizing: border-box;
+    width: 100%;
+    border-style: solid;
+    color: lightsalmon;
+}
